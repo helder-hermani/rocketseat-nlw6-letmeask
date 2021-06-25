@@ -1,47 +1,33 @@
-# Getting Started with Create React App
+![enter image description here](https://firebasestorage.googleapis.com/v0/b/letmeask---nlw-6.appspot.com/o/let-me-ask-cover.jpg?alt=media&token=2550ec34-9355-4c82-88af-d9b3f3091441)
+# Let Me Ask
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Projeto desenvolvido no Next Level Week 6 da Rocketseat
 
-## Available Scripts
+Projeto desenvolvido durante a participação no evento Next Level Week 6, promovido pela [Rocketseat](https://rocketseat.com.br/).
 
-In the project directory, you can run:
+Aplicação de suporte às ações de Q&A, de forma a gerenciar perguntas e respostas durante a apresentação de videos, lives ou cursos online. DIsponibiliza a criação de salas para participação de ouvintes, onde os participantes poderão registras questões a serem respondidas pelo apresentador, além de qualificar as perguntas de maior interesse.
 
-### `npm start`
+#### Versão em Produção:
+[https://letmeask---nlw-6.firebaseapp.com/](https://letmeask---nlw-6.firebaseapp.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Notas Técnicas
 
-### `npm test`
+### Bibliotecas e Tecnologias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Stack de Desenvolvimento: ReactJS.
+Compilação: Build do create-react-app.
+Linguagem: TypeScript.
+Folha Estilos: SASS.
+Roteamento: react-router-dom.
+Banco de Dados: Realtime Database (Firebase).
+Sistema de Autenticação: Conta Google, via Firebase.
+Editor: VSCode.
 
-### `npm run build`
+### Funcionalidades:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compartilhamento informações e funcionalidades entre os componentes com o uso de hooks nativos, tais como *useState* e desenvolvimento de Context API.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Gerenciamento de efeitos com *useEffect*. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-# rocketseat-nlw6-letmeask
+![enter image description here](https://firebasestorage.googleapis.com/v0/b/letmeask---nlw-6.appspot.com/o/let-me-ask-vscode.jpg?alt=media&token=e1a30e84-82a7-45dd-9b26-c7e75a454df9)
